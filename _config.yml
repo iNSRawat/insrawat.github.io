@@ -1,6 +1,5 @@
 title: N S Rawat - Data Scientist & ML Enthusiast
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+logo: "https://avatars.githubusercontent.com/u/46622106?v=4" # GitHub profile photodescription: > # your text below (remove <br> elements if you don't need line breaks)
   Data Scientist & ML Enthusiast
   <br><br>
   Transforming complex data into actionable insights
@@ -13,3 +12,10 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+# Social links
+name: N S Rawat
+github_username: iNSRawat
+linkedin_username: insrawat
+twitter_username: NSRawat_in
+email: digital@nsrawat.in
