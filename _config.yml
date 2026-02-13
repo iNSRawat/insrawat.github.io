@@ -1,11 +1,13 @@
-title: John Doe # your name (or website title) here
+title: N S Rawat - Data Scientist & ML Enthusiast
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Scientist & ML Enthusiast
   <br><br>
-  Second description 
+  Transforming complex data into actionable insights
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/insrawat/">View My LinkedIn Profile</a>
+  <br>
+  <a href="https://www.nsrawat.in/">Visit My Portfolio Website</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
